@@ -1,0 +1,35 @@
+{
+  "readmeUrl": "",
+  "title": "Dhruva Dammanna",
+  "name": "Dhruva Dammanna",
+  "ascii": "Dhruva Dammanna",
+  "social": {
+    "github": "DhruvaD1",
+    "linkedin": "dhruvad"
+  },
+  "email": "Dhruvad972@gmail.com",
+  "ps1_hostname": "dhruva",
+  "ps1_username": "Visitor",
+  "repo": "https://github.com/DhruvaD1?tab=repositories",
+  "resume_url": "https://drive.google.com/file/d/1Dmz58-8-s1s94sZJ15Jl7mVdngsYMMX-/view?usp=sharing",
+  "colors": {
+    "light": {
+      "background": "#399985",
+      "foreground": "#2A2A2A",  
+      "yellow": "#E0E2E2",  
+      "green": "#A9C627",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
